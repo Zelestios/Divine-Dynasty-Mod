@@ -54,8 +54,6 @@
 ## 🧠 Known Issues / WIP
 
 - Localization updates ongoing
-- No pre-made God of Gods: Ascension must be achieved via decision
-- Dynamic trait icons auto-adjust based on gender
 
 ---
 
